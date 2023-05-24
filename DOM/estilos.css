@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #productos {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .producto {
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .agregar {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  #carrito {
+    margin-top: 20px;
+  }
+  
+  #items-carrito {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #items-carrito li {
+    margin-bottom: 5px;
+  }
+  
+  #total-carrito {
+    font-weight: bold;
+  }
+  
+  
