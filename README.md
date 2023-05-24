@@ -1,6 +1,6 @@
 # Fundamentos de JavaScript parte 2
 
-Este repositorio contiene una guía introductoria a los fundamentos de JavaScript, abordando temas como arreglos, funciones, los fundamentos iniciales y objetos. Aquí encontrarás ejemplos prácticos y explicaciones claras que te ayudarán a comprender y dominar estos conceptos básicos de JavaScript.
+Este repositorio contiene una guía introductoria a los fundamentos de JavaScript, abordando temas como el uso del DOM y el Aincronismo. Aquí encontrarás ejemplos prácticos y explicaciones claras que te ayudarán a comprender y dominar estos conceptos básicos de JavaScript.
 <br>
 
 <h3>Contenido del Repositorio:</h3>
