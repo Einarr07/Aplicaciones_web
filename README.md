@@ -20,3 +20,5 @@ Este repositorio contiene una guía introductoria a los fundamentos de JavaScrip
 ![image](https://github.com/Einarr07/Aplicaciones_web/assets/96399138/01fbcead-f636-4586-8758-02ff54313945)
 
 <a href= https://github.com/Einarr07/Aplicaciones_web/tree/fundamentos-parte-dos/Modulos>Modulos:</a> Los módulos son una característica que permite dividir el código en archivos separados y reutilizables. Los módulos ayudan a organizar y modularizar el código, evitando conflictos y facilitando el mantenimiento. Permiten exportar e importar funciones, variables y objetos entre diferentes archivos, lo que promueve la encapsulación y el reuso de código. Los módulos en JavaScript mejoran la legibilidad, la estructura y la escalabilidad de las aplicaciones.
+
+![image](https://github.com/Einarr07/Aplicaciones_web/assets/96399138/490d9a91-bd35-48f0-817e-6aaafdf8fbbc)
