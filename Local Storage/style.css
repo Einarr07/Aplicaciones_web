@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+h1{
+    text-align: center;
+    color: #333;
+}
+
+#formulario{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#texto_nota{
+    padding: 8px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#texto_nota:focus{
+    outline: none;
+    border-color: #888;
+}
+
+#texto_nota::placeholder{
+    color: #888;
+}
+
+button{
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
