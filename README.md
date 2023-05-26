@@ -14,3 +14,9 @@ Este repositorio contiene una guía introductoria a los fundamentos de JavaScrip
 <a href= https://github.com/Einarr07/Aplicaciones_web/tree/fundamentos-parte-dos/Asincronismo>Asincronismo:</a> El asincronismo en programación se refiere a la capacidad de realizar tareas de forma no bloqueante. En lugar de esperar a que una tarea se complete antes de pasar a la siguiente, el asincronismo permite que el programa continúe ejecutando otras tareas mientras espera la finalización de una operación en segundo plano. Esto se logra utilizando técnicas como devoluciones de llamada, promesas y funciones asíncronas/await.
 
 ![image](https://github.com/Einarr07/Aplicaciones_web/assets/96399138/e64357f8-4c59-4f10-8c2e-f6832aaa14cd)
+
+<a href= https://github.com/Einarr07/Aplicaciones_web/tree/fundamentos-parte-dos/Local%20Storage>LocalStorage:</a> El LocalStorage  permite almacenar datos de forma persistente en el navegador del usuario, utilizando pares clave-valor. Es útil para guardar preferencias, configuraciones y datos de estado de la aplicación.
+
+![image](https://github.com/Einarr07/Aplicaciones_web/assets/96399138/01fbcead-f636-4586-8758-02ff54313945)
+
+<a href= https://github.com/Einarr07/Aplicaciones_web/tree/fundamentos-parte-dos/Modulos>Modulos:</a> Los módulos son una característica que permite dividir el código en archivos separados y reutilizables. Los módulos ayudan a organizar y modularizar el código, evitando conflictos y facilitando el mantenimiento. Permiten exportar e importar funciones, variables y objetos entre diferentes archivos, lo que promueve la encapsulación y el reuso de código. Los módulos en JavaScript mejoran la legibilidad, la estructura y la escalabilidad de las aplicaciones.
