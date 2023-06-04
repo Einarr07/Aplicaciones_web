@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 2</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #f2f2f2;
+        }
+        
+        h1 {
+          text-align: center;
+          padding: 20px 0;
+        }
+        
+        .task-list {
+          max-width: 600px;
+          margin: 20px auto;
+          padding: 20px;
+          background-color: #fff;
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        
+        .task {
+          display: flex;
+          align-items: center;
+          margin-bottom: 10px;
+        }
+        
+        .task__checkbox {
+          margin-right: 10px;
+        }
+        
+        .task__text {
+          flex-grow: 1;
+        }
+      </style>
+</head>
+<body>
+    <h1>Lista de Tareas</h1>
+
+  <div class="task-list">
+    <div class="task">
+      <input type="checkbox" class="task__checkbox">
+      <span class="task__text">Aprender JavaScript</span>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" class="task__checkbox">
+      <span class="task__text">Practicar programación en JavaScript</span>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" class="task__checkbox">
+      <span class="task__text">Resolver problemas de código</span>
+    </div>
+  </div>
+</body>
+</html>
